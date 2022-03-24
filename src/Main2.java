@@ -30,6 +30,14 @@ public class Main2 {
             return result2;
 
         }
+        public static double multiply(double firstNumber, double secondNumber){
+            double result3 = firstNumber * secondNumber;
+            return result3;
+        }
 
+        public static double modulo(double firstNumber, double secondNumber){
+            double result4 = firstNumber % secondNumber;
+            return result4;
+        }
     }
 
